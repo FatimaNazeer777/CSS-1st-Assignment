@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: o;
+}
+#navbar{
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.92);
+    color: rgb(239, 232, 232);
+
+}
+#logo{
+    font-size: xx-large;
+}
+
+a{
+    margin-right: 50px;
+}
+button{
+    color: #00ff00;
+    background-color: rgba(128, 128, 128, 0.989);
+    border-radius: 10%;
+    border-color: #00ff00;
+     padding: 10px;   
+}
+
+h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    width: 1000px;
+    height: 200px;
+    border-color: black;
+    border-collapse: collapse;  
+#one{
+    background-color: #0c6638;
+    color: white;
+    height: 50px;
+}
+}
+#two{
+    background-color: rgb(154, 149, 149);
+}
+#three{
+       background-color: #458745;
+       border-radius: 1px;
+       color: rgb(11, 9, 9);
+       padding: 3px;
+       border-color:#458745 ;
+}
+   
+#four{
+    background-color: #ff0000;
+    border-radius: 1px;
+    color: rgb(11, 9, 9);
+    padding: 3px;
+    border-color: #ff0000;
+}
+.five{
+    border: 1px solid #4f4949;
+    background-color: #4f4949;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    color: aliceblue;
+}
+#button{
+   height: 50px;
+   width: 100px;
+   border-radius: 50px;
+   background-color: white;
+   color: black;
+   border-color:#458746 ;
+   margin-top: 10px;
+   width: 200px;   
+}
+
